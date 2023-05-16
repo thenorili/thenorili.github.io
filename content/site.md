@@ -1,5 +1,5 @@
 ---
-title: site goals
+title: about nori.gay
 ---
 
 - tell visitors a little about myself
