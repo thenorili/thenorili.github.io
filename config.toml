@@ -99,3 +99,8 @@ paginate = 5
         identifier = "friends"
         name = "friends"
         url = "/friends"
+      [[languages.en.menu.main]]
+        identifier = "hellthread"
+        name = "hellthread"
+        url = "/hellthread"
+        
