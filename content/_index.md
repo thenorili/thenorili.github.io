@@ -2,7 +2,9 @@
 title: about nori li
 aliases: "/about"
 ---
-# nori is:
+
+
+## nori is:
 - completely norimal!
 - a queer trans woman
 - a prolific musician
