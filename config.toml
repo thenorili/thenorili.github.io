@@ -11,10 +11,10 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 10
 
   # show selector to switch language
   showLanguageSelector = false
@@ -65,8 +65,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "nori.gay"
+    subtitle = "nori's webbed home"
     owner = ""
     keywords = ""
     copyright = ""
@@ -79,15 +79,19 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
-      logoHomeLink = "/"
+      logoText = "nori"
+      logoHomeLink = "/index"
 
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about"
-        name = "About"
+        name = "about"
         url = "/about"
       [[languages.en.menu.main]]
+        identifier = "goals"
+        name = "site"
+        url = "/site"
+      [[languages.en.menu.main]]
         identifier = "music"
-        name = "Music"
+        name = "music"
         url = "/music"
