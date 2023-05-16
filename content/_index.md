@@ -21,4 +21,4 @@ contact info:
 - [GitHub, for what it's worth](https://github.com/thenorili)
 - [Twitter, for while it lasts](https://twitter.com/thenorili)
 
-you may find me on **bsky.app** as **nori.gay**. my behavior there is not professional! it's where i relax with my people. i think it's the best social media platform right now! feel free to reach out with that expectation. i am known there as "the poet laureate of the hellthread" and "the hellblessed". you can find out something about the hellthread by visiting [hellthread.website](https://hellthread.website). i also have written some poems about it that i'll share here.
+you may find me on **bsky.app** as **nori.gay**. my behavior there is not professional! it's where i relax with my people. i think it's the best social media platform right now! feel free to reach out with that expectation. i am known there as "the poet laureate of the hellthread" and "the hellblessed". you may find out something about the hellthread [here](hellthread).
