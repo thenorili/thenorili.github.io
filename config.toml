@@ -66,17 +66,17 @@ paginate = 5
   [languages.en]
     languageName = "English"
     title = "nori.gay"
-    subtitle = "nori's webbed home"
-    owner = ""
-    keywords = ""
-    copyright = ""
+    subtitle = "nori's webbed site"
+    owner = "nori li"
+    keywords = "nori, programming, music"
+    copyright = "ccc: nori :333"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
     newerPosts = "Newer posts"
     olderPosts = "Older posts"
-    missingContentMessage = "Page not found..."
-    missingBackButtonLabel = "Back to home page"
+    missingContentMessage = "welcome to the backrooms of nori.gay!"
+    missingBackButtonLabel = "return to the norimal site"
 
     [languages.en.params.logo]
       logoText = "nori"

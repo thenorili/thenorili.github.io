@@ -2,7 +2,6 @@
 title: about nori li
 aliases: "/about"
 ---
-
 # nori is:
 - completely norimal!
 - a queer trans woman
@@ -14,7 +13,7 @@ that's me, hello!
 
 i care a lot about good conversation.
 
-i have a lot of stories and songs : )
+i have a lot of stories and songs :333
 
 contact info:
 - [GitHub, for what it's worth](https://github.com/thenorili)
