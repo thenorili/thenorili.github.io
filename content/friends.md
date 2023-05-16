@@ -1,5 +1,6 @@
 ---
 title: friends of nori
+url: "/friends"
 ---
 
 some of nori's friends have webbed sites! here are some of those.

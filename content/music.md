@@ -1,5 +1,6 @@
 ---
 title: music
+url: /music
 ---
 
 this is where my discography will live quite soon! for now you can download it from [my google drive](https://drive.google.com/drive/folders/12j4EU0gnX__fbmDon1GmWHOoImL4SJgG?usp=share_link). The tagging is *mostly* good. Sorry ^^;

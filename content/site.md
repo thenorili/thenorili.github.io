@@ -1,5 +1,6 @@
 ---
 title: about nori.gay
+url: "/site"
 ---
 
 - tell visitors a little about myself
