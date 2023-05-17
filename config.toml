@@ -103,4 +103,8 @@ paginate = 5
         identifier = "hellthread"
         name = "hellthread"
         url = "/hellthread"
-        
+      [[languages.en.menu.main]]
+        identifier = "writing"
+        name = "writing"
+        url = "/writing"
+               
