@@ -5,6 +5,8 @@ date: "2023-04-29"
 
 a hellthread is like when are a mountain spring and you are constantly aware of every droplet of water which originated from you
 
+<!--more-->
+
 if your spring doesn't go very far it's not that exciting but once you have tributaries on tributaries it's endless and boundless and beautiful and you can't stop it there's no way to stop it it's just water as far as the eye can see
 
 but then also if somebody halfway down the mountain washes their sweat off in your stream THEY ALSO BECOME AWARE OF ALL THE WATER WHICH MINGLED WITH THE WATER OF THEIR FLESH FOREVER UNCONTROLLABLY WITH NO RESTRICTIONS WHATSOEVER

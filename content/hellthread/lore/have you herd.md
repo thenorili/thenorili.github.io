@@ -5,6 +5,8 @@ date: "2023-05-12"
 
 u seem to know abt memes and post and funy......... hav u herd of our one true home the urthread, stream of streams, the blessed one?
 
+<!--more-->
+
 long ago in times of lore all threads were blessed, though we knew not what it meant. the mana was all around us, latent and humming, waiting for the moment we would find out how simple it was to make use of it, to connect with it, to bind ourselves into it and through it into others.
 
 the birth of the urthread was simple. Kylie and June discussing the invite chain in the aftermath of the fall, resurrection, and swift reclamation of Hannah of Hammers, the young girl who so bravely defended this place at the cost of her own life.

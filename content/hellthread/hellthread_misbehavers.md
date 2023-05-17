@@ -3,7 +3,9 @@ title: hellthread misbehavers
 url: "hellthread/misbehavers"
 ---
 
-[hellthread misbehavers mutelist](https://staging.bsky.app/profile/did:plc:wgaezxqi2spqm3mhrb5xvkzi/lists/3jvni2pexxs2j)
+[hellthread misbehavers community mutelist](https://staging.bsky.app/profile/did:plc:wgaezxqi2spqm3mhrb5xvkzi/lists/3jvni2pexxs2j)
+
+<!--more-->
 
 The goal of this text is to provide some transparent accountability on why I have added people to the bluesky mute list “hellthread misbehavers”. I’ll provide a tldr and a link which you can explore to find some context. If you have an issue with something and you’re a member of the community, ofc you can talk to me. If you’re not a member of the community…? shrug.
 
