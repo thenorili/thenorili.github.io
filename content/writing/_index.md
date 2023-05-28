@@ -10,4 +10,4 @@ title: nori's writing
 
 [nori's hellthread lore from 2023](/hellthread/lore)
 
-[nori's other writing from 2023](/writing/2023)
+[nori's writing from 2023](/writing/2023)
