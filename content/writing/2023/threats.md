@@ -59,8 +59,7 @@ i'm reading the docs
 i'm planning things out  
 i'm hunting domains  
 im going to talk to a lawyer  
-it might be a little late bc im going on tour in june
-but fuck u im getting laid go to hell  
+it might be a little late bc im going on tour in june but fuck u im getting laid go to hell  
 ```
 
 > yooo wait on tour??? no back up, are you in a band?!?!?  

@@ -3,9 +3,9 @@ title: on tour
 date: 2023-05-02
 ---
 > [previously, on threats...](../threats)
+
 ```
-it might be a little late bc im going on tour in june
-but fuck u im getting laid go to hell  
+it might be a little late bc im going on tour in june but fuck u im getting laid go to hell  
 ```
 > yooo wait on tour??? no back up, are you in a band?!?!?  
 ```
@@ -59,9 +59,4 @@ for the mountain
 for the space between the people present  
 for the space held for one in particular  
 for the space in my own heart that cries out for vibration  
-  
-i hold people very dearly  
-and often when i stay around people hold me very dearly too,  
-   the ones i care about,  
-	though bitterness would have me believe otherwise and hide in my cellar forever  
 ```
