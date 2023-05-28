@@ -3,8 +3,6 @@ title: on tour
 date: 2023-05-02
 ---
 > [previously, on threats...](../threats)
-
-# on tour
 ```
 it might be a little late bc im going on tour in june
 but fuck u im getting laid go to hell  

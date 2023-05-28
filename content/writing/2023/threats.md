@@ -2,7 +2,6 @@
 title: mind your fucking language
 date: 2023-05-02
 ---
-# mind your fucking language
 ```
 even if you get super metaphorical and inscrutable like  
 they still get the threat vibe  
