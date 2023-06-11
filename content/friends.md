@@ -7,9 +7,9 @@ some of nori's friends have webbed sites! here are some of those.
 
 this is a work in progress! i pray for grace in this transitory period.
 
-[luna](https://moonbase.lgbt/) makes amazing shaders, funny tiktoks and webbed sites, awesome code!
+[kate crane](http://www.katecrane.com/) wrote music reviews for a long time! she's writing a book :D she's another volunteer moderator for the [hellthread][nori.gay/hellthread].
 
-[kate crane](http://www.katecrane.com/) wrote music reviews for a long time! she's writing a book :D
+[luna](https://moonbase.lgbt/) makes amazing shaders, funny tiktoks and webbed sites, awesome code!
 
 [egregirls](https://twitter.com/egregirls) writes about love, trauma, magic, and the Dance on twitter. She founded the queer art movement [Empty Spaces](https://an.emptier.place/).
 
